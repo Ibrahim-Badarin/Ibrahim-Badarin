@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Ibrahim Badarin
+- How to reach me: ibrahimbadarin@outlook.com
 
-<!--
-**Ibrahim-Badarin/Ibrahim-Badarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+## Technologies & Tools
+-Languages: Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+
+## Experience
+
+
+## Education
+- University of Wisconsin - Madison: B.S. in Computer Engineering (Sep 2023 - Expected May 2027)
+- University of Wisconsin - Madison: B.S. in Computer Science (Sep 2023 - Expected May 2027)
+ 
